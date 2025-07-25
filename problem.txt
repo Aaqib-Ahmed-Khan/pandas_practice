@@ -1,0 +1,11 @@
+1-coloumns,rows
+what type oF DATA
+MISSING DATA
+ingo ()
+method
+
+number of rows and coloumns 
+coloumn name
+int64 flow64 objects
+non null counts
+memory usage of  data frame
